@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Job Portal - Login or Register</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #e8f8f5;
+      min-height: 100vh;
+      margin: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .welcome-title {
+      text-align: center;
+      margin-top: 30px;
+      font-size: 2.5rem;
+      font-weight: bold;
+      color: #1abc9c;
+    }
+
+    .auth-wrapper {
+      display: flex;
+      flex-direction: row-reverse;
+      background: #fff;
+      border-radius: 16px;
+      box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+      max-width: 750px;
+      width: 95vw;
+      margin: 40px auto;
+      overflow: hidden;
+    }
+
+    .img-section {
+      background: linear-gradient(120deg, #4CAF50 60%, #81c784 100%);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 320px;
+      min-height: 420px;
+    }
+
+    .img-section img {
+      width: 220px;
+      height: auto;
+      object-fit: contain;
+    }
+
+    .auth-box {
+      padding: 30px;
+      width: 100%;
+      max-width: 350px;
+    }
+
+    .auth-box h2 {
+      text-align: center;
+      margin-bottom: 20px;
+      color: #333;
+    }
+
+    .auth-box input {
+      width: 100%;
+      padding: 10px;
+      margin: 10px 0;
+      border-radius: 5px;
+      border: 1px solid #ccc;
+    }
+
+    .auth-box input[type="submit"] {
+      background-color: #4CAF50;
+      color: white;
+      font-weight: bold;
+      cursor: pointer;
+      transition: background-color 0.3s;
+    }
+
+    .auth-box input[type="submit"]:hover {
+      background-color: #45a049;
+    }
+
+    .switch-link {
+      display: block;
+      text-align: center;
+      margin-top: 10px;
+      font-size: 14px;
+    }
+
+    .error-message {
+      color: red;
+      text-align: center;
+      font-size: 14px;
+      margin-top: 10px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1 class="welcome-title">Welcome to Job Portal</h1>
+
+  <div class="auth-wrapper">
+    <!-- Image on the right -->
+    <div class="img-section">
+      <img src="images/job-portal.png" alt="Job Portal" />
+    </div>
+
+    <!-- Login form -->
+    <div class="auth-box">
+      <form action="loginform" method="post">
+        <h2>Login</h2>
+        <input type="text" name="email" placeholder="Enter email" required />
+        <input type="password" name="password" placeholder="Enter password" required />
+        <input type="submit" value="Login" />
+        <span class="switch-link">Not registered? <a href="register.html">Register here</a></span>
+      </form>
+    </div>
+  </div>
+
+</body>
+</html>

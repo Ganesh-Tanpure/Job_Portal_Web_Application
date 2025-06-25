@@ -80,9 +80,14 @@ Job-Portal-Project/
     │   ├── resume-upload.jsp
     │   ├── view-jobs.jsp
     │   ├── images/
-    │   │   ├── job-portal.png
-    │   │   ├── screenshot-login.png
-    │   │   └── screenshot-dashboard.png
+    │   │   ├── dashboard.png
+    │   │   └── login.png
+    │   │   ├── My_application.png
+    │   │   └── Profile.png
+    │   │   ├── Registration.png
+    │   │   └── Upload_resume.png
+    │   │   ├── View_available_jobs.png
+    │   │   └── job-portal.png
    
 ```
 

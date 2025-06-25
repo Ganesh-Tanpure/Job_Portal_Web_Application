@@ -95,7 +95,7 @@ Job-Portal-Project/
 
 **Ganesh Tanpure**
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ganesh-tanpure)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ganeshtanpure)
 - 📬 [Email](ganeshtanpureglt@gmail.com)
 
 ---

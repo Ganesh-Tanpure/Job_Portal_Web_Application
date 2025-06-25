@@ -79,16 +79,11 @@ Job-Portal-Project/
     │   ├── applied-jobs.jsp
     │   ├── resume-upload.jsp
     │   ├── view-jobs.jsp
-    │   ├── css/
-    │   │   └── styles.css
-    │   ├── js/
-    │   │   └── scripts.js
     │   ├── images/
     │   │   ├── job-portal.png
     │   │   ├── screenshot-login.png
     │   │   └── screenshot-dashboard.png
-    │   └── WEB-INF/
-    │       └── web.xml
+   
 ```
 
 

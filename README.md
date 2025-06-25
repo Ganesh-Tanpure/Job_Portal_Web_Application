@@ -106,11 +106,4 @@ This project is licensed under the [MIT License](LICENSE) — feel free to use i
 If you found this project helpful, please consider giving it a ⭐ star to support the work and help others discover it!
 
 
-## ⚙️ Setup Instructions
 
-### 📁 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/job-portal.git
-cd job-portal
-# Job_Portal_Web_Application

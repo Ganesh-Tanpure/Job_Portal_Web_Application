@@ -54,6 +54,8 @@
 
 ---
 
+## 📁 Folder Structure
+```bash
 Job-Portal-Project/
 ├── README.md
 ├── LICENSE

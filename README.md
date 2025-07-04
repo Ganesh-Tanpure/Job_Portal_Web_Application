@@ -112,11 +112,11 @@ Job-Portal-Project/
 - 📬 [Email](ganeshtanpureglt@gmail.com)
 
 ---
-
+<!--
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE) — feel free to use it for personal or educational projects.
-
+-->
 ---
 
 ## ⭐ Support

@@ -15,10 +15,11 @@
 
 ---
 
+<!--
 ## 🌐 Live Demo (Optional)
 
 🚀 [Deployed Project Link](#) *(Add if hosted on Render, Vercel, etc.)*
-
+-->
 ---
 
 ## 📸 Screenshots
@@ -34,6 +35,10 @@
 | 📂 My Applications | 🔍 View Available Jobs |
 |--------------------|------------------------|
 | ![My Applications](job-portal-project/webapp/images/My_applications.png) | ![View Jobs](job-portal-project/webapp/images/View_available_jobs.png) |
+
+| 🧑‍💻 Profile | 
+|--------------------|
+| ![My Applications](job-portal-project/webapp/images/Profile.png) |
 
 ---
 

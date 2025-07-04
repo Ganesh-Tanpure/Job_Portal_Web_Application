@@ -25,7 +25,7 @@
 
 | 👤 Login Page | 🧑‍💻 Dashboard |
 |--------------|---------------|
-| ![Login](images/screenshot-login.png) | ![Dashboard](images/screenshot-dashboard.png) |
+| ![Login](job-portal-project/webapp/images/Login_page.png) | ![Dashboard](images/screenshot-dashboard.png) |
 
 ---
 

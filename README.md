@@ -24,8 +24,16 @@
 ## 📸 Screenshots
 
 | 👤 Login Page | 🧑‍💻 Dashboard |
-|--------------|---------------|
-| ![Login](webapp/images/Login_Page.png) | ![Dashboard](images/screenshot-dashboard.png) |
+|---------------|----------------|
+| ![Login](job-portal-project/webapp/images/Login_Page.png) | ![Dashboard](job-portal-project/webapp/images/Dashboard.png) |
+
+| 📝 Registration Page | 📄 Upload Resume |
+|----------------------|------------------|
+| ![Registration](job-portal-project/webapp/images/Registration_Page.png) | ![Upload Resume](job-portal-project/webapp/images/Upload_resume.png) |
+
+| 📂 My Applications | 🔍 View Available Jobs |
+|--------------------|------------------------|
+| ![My Applications](job-portal-project/webapp/images/My_applications.png) | ![View Jobs](job-portal-project/webapp/images/View_available_jobs.png) |
 
 ---
 
